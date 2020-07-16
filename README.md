@@ -1,6 +1,6 @@
 ### Eai! 👋
 
-Meu nome é André, tenho 17 anos, e há uns 4 anos já estava me aventurando na programação. Comecei a trabalhar profissionalmente recentemente e estou buscando novas oportunidades.
+Meu nome é André e tenho 17 anos. Comecei a trabalhar profissionalmente recentemente e estou buscando novas oportunidades.
 
 🌱 Sou desenvolvedor front-end e utilizo principalmente **React** e **React Native**.
 
