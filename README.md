@@ -1,8 +1,10 @@
 ### Eai! 👋
 
-Meu nome é André e tenho 18 anos. Estou iniciando no mercado de trabalho e estou aberto a novas oportunidades.
+Meu nome é André e tenho 18 anos.
 
 Sou desenvolvedor front-end e utilizo principalmente **NextJS**, **React Native**, **TailwindCSS** e **Typescript**.
+
+No momento aprendendo: **Angular**
 
 #### Onde me achar?
 <ul>
