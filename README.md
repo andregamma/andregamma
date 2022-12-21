@@ -1,23 +1,13 @@
-### Eai! 👋
+Hi, my name is André and I am a front-end developer. I specialize in creating visually appealing and user-friendly web experiences using modern technologies such as React and Angular.
 
-Meu nome é André e tenho 18 anos.
+Feel free to contact me on:
 
-Sou desenvolvedor front-end e utilizo principalmente **NextJS**, **React Native**, **TailwindCSS** e **Typescript**.
-
-No momento aprendendo: **Angular**
-
-#### Onde me achar?
-<ul>
-  <li style="display: flex; align-items: center;">
-    <a href="https://twitter.com/@_andregamma" target="_blank" title="Twitter">Twitter</a>
-  </li>
-  <li style="display: flex; align-items: center;">
-    <a href="https://www.linkedin.com/in/andregamma/" target="_blank" title="Twitter">Linkedin</a>
-  </li>
-</ul>
-
-<hr>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andregamma&count_private=true&show_icons=true&theme=radical )](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://www.linkedin.com/in/andregamma/">
+  <img src="https://img.shields.io/badge/LinkedIn-230f2b?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=blue" />
+</a>
+<a href="https://twitter.com/_andregamma">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/_andreg.16/">
+  <img src="https://img.shields.io/badge/Instagram-230f2b?style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b&labelColor=dd2a7b" />
+</a>
