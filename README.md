@@ -1,4 +1,4 @@
-Hi, my name is André and I am a front-end developer. I specialize in creating visually appealing and user-friendly web experiences using modern technologies such as React and Angular.
+Hi, my name is André and I am a front-end developer. I work creating visually appealing and user-friendly web experiences using modern technologies like React and Angular.
 
 Feel free to contact me on:
 
