@@ -1,4 +1,6 @@
-Hi, my name is André and I am a front-end developer. I work creating visually appealing and user-friendly web experiences using modern technologies like React and Angular.
+Hi, I'm André, a full-stack software engineer with over 4 years of experience developing applications used by more than 500 companies. I work mainly with Angular, TailwindCSS, Typescript, and RxJS. 
+
+I have experience in SPAs, design systems, accessibility (a11y), internationalization (i18n), CI/CD, Sentry, automated testing (Jest, Vitest), and full-stack development with NestJS (Node.js), MySQL, PostgreSQL, as well as participation and management of agile teams using methods such as Scrum and Kanban.
 
 Feel free to contact me on:
 
